@@ -1,0 +1,21 @@
+.background{
+    color: rgb(165, 127, 84);
+    background-color: aqua;
+    display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+    
+}
+h1{
+    text-align: center;
+}
+
+p{
+    color: blueviolet;
+}
+
+.align_center{
+   
+    align-self: center;
+}
