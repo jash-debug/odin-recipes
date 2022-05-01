@@ -4,3 +4,7 @@
 + string literals
 + concatenation
 + types
+
+I string literals
+II concatenation
+III types
