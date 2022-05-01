@@ -5,6 +5,6 @@
 + concatenation
 + types
 
-I string literals
-II concatenation
-III types
+- string literals
+- concatenation
+- types
